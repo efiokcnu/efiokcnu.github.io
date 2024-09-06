@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://efiokcnu.github.io/sitemap/sitemap.txt
